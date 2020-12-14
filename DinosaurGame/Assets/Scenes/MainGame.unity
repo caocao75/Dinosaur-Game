@@ -166,7 +166,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 00859448f13e14144baeb8157d8a5f79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  birdPrefab: {fileID: 6323049557231347872, guid: 5306c273560e0224ab327f0abb7ad3f6, type: 3}
+  birdPrefab: {fileID: 1632020389605508094, guid: 5306c273560e0224ab327f0abb7ad3f6, type: 3}
   rockPrefab: {fileID: 6719589208461116833, guid: d5be1d3f8e849e2408f49cfd686867e6, type: 3}
   starttime: 0
   spawnTime: 0
